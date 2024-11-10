@@ -1,0 +1,1 @@
+const month=document.querySelector('.')
